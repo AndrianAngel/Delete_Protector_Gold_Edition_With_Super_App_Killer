@@ -184,6 +184,14 @@ Bundled with a **Super App Killer** module, this tool lets you define up to 4 cu
 - Administrator privileges
 
 ---
+> 📁 **Note:** All demos are recorded using [Directory Opus 13](https://www.gpsoft.com.au/) as the file manager.
+> The protection works with **any** file explorer or shell — Directory Opus is simply the author's preferred environment.
+> As long as your file manager is not listed in the exclusion list, delete operations will be intercepted and protected regardless of which app initiates them.
+
+> ⚡ **Performance Note:** The detection loop is configured at **50 ms** intervals for near-instant response.
+> Any sluggishness visible in the demos is purely a result of OBS recording overhead combined with a low-end test machine — not a reflection of real-world performance.
+
+---
 
 ## 📄 LICENSE
 
